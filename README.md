@@ -49,10 +49,10 @@ See the `helm install` help text for more configuration options.
 ### Kubernetes Services Helm Charts
 
 These charts help you package your applications for deployment into Kubernetes. The code for the charts are available in
-the [gruntwork-io/helm-kubernetes-services](https://github.com/gruntwork-io/helm-kubernetes-services/) github
+the [tnn-gruntwork-io/helm-kubernetes-services](https://github.com/tnn-gruntwork-io/helm-kubernetes-services/) github
 repository.
 
-- [k8s-service](https://github.com/gruntwork-io/helm-kubernetes-services/blob/master/charts/k8s-service)
+- [k8s-service](https://github.com/tnn-gruntwork-io/helm-kubernetes-services/blob/master/charts/k8s-service)
 
 
 ## Why are the charts in a different repository?
